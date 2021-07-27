@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "156495296091",
+    "project_id": "notifs-e2dbf",
+    "storage_bucket": "notifs-e2dbf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:156495296091:android:523e4a0f3e386ab8a7f17e",
+        "android_client_info": {
+          "package_name": "com.example.notifs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "156495296091-789g8u1sh9thqfr7tpkeq696dc2bbmn5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdHQRJqN-noI4MkhOPfC6d8El7vNud8Sw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "156495296091-789g8u1sh9thqfr7tpkeq696dc2bbmn5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
